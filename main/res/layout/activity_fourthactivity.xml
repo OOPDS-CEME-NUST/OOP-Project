@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="33.3"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/zero"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="           CALCULUS
+"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:weightSum="100">
+
+
+        <ImageView
+            android:id="@+id/MuhammadSameer"
+
+            android:layout_width="279dp"
+            android:layout_height="86dp"
+            android:layout_weight="66.6"
+            tools:srcCompat="@drawable/ic_launcher_background" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/first"
+                android:layout_width="301dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text=" ALI" />
+
+            <TextView
+                android:id="@+id/second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:gravity="center"
+                android:text="   GPA 3.3                                                                                                                                                    subject Calculus                                                Phone Number: 021345678  " />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:weightSum="100">
+
+
+        <ImageView
+            android:id="@+id/q"
+            android:layout_width="279dp"
+            android:layout_height="86dp"
+            android:layout_weight="66.6"
+            app:srcCompat="@android:drawable/alert_dark_frame"
+            tools:srcCompat="@tools:sample/avatars[2]" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lk"
+                android:layout_width="301dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="Afridi" />
+
+            <TextView
+                android:id="@+id/hj"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:gravity="center"
+                android:text="   GPA 3                                                                                                                                                    subject calculus                                               Phone Number: 0349293192  " />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="100">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:weightSum="100">
+
+
+        <ImageView
+            android:id="@+id/n"
+            android:layout_width="279dp"
+            android:layout_height="86dp"
+            android:layout_weight="66.6"
+            app:srcCompat="@android:drawable/alert_dark_frame"
+            tools:srcCompat="@tools:sample/avatars[4]" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fifth"
+                android:layout_width="301dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="Syed Hassan" />
+
+            <TextView
+                android:id="@+id/sixth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:gravity="center"
+                android:text="   GPA 3.9                                                                                                                                                  subject Calculus                                                Phone Number: 0349293912  " />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:weightSum="100">
+
+
+        <ImageView
+            android:id="@+id/A"
+            android:layout_width="279dp"
+            android:layout_height="86dp"
+            android:layout_weight="66.6"
+            app:srcCompat="@android:drawable/alert_dark_frame"
+            tools:srcCompat="@tools:sample/avatars[3]" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/seventh"
+                android:layout_width="301dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text=" Abbas" />
+
+            <TextView
+                android:id="@+id/eight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:gravity="center"
+                android:text="   GPA 3.2                                                                                                                                                    subject Calculus                                               Phone Number: 03492131912  " />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:weightSum="100">
+
+
+        <ImageView
+            android:id="@+id/g"
+            android:layout_width="279dp"
+            android:layout_height="86dp"
+            android:layout_weight="66.6"
+            app:srcCompat="@android:drawable/alert_dark_frame"
+            tools:srcCompat="@tools:sample/avatars[6]" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nine"
+                android:layout_width="301dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="Bilal " />
+
+            <TextView
+                android:id="@+id/ten"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:gravity="center"
+                android:text="   GPA 3.089                                                                                                                                                    subject Calculus                                                Phone Number: 02492931912  " />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:weightSum="100">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="33.3"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
